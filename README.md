@@ -1,5 +1,9 @@
-# Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
-Experiment:
+# Ex 1: Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+
+# Register Number : 212223040125
+
+# Aim:
+Experiment:-
 Develop a comprehensive report for the following exercises:
 1.	Explain the foundational concepts of Generative AI. 
 2.	Focusing on Generative AI architectures. (like transformers).
